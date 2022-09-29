@@ -1,0 +1,12 @@
+{
+  "name": "Nombre",
+  "version": "0.0.0",
+  "description": "",
+  "main": "Dongatobot.js",
+  "scripts": {
+  "start": "Dongatobot.js"
+  },
+  "dependencies": {
+    "@adiwajshing/baileys": "^3.4.1"
+  }
+}
