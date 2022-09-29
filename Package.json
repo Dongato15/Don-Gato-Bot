@@ -1,12 +1,10 @@
 {
-  "name": "Nombre",
-  "version": "0.0.0",
-  "description": "",
-  "main": "Dongatobot.js",
   "scripts": {
-  "start": "Dongatobot.js"
+    "start": "node index.js"
   },
   "dependencies": {
-    "@adiwajshing/baileys": "^3.4.1"
+    "@adiwajshing/baileys": "^4.4.0",
+    "pino": "^7.0.5",
+    "qrcode-terminal": "^0.12.0"
   }
 }
