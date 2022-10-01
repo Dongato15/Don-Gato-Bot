@@ -69,7 +69,7 @@ const connectToWA = () => {
 			switch (command) {
 
 case 'hola':
-reply('que hay xD')
+reply('HOLA SOY UN BOTSITO <33')
 break
 
 				default:
